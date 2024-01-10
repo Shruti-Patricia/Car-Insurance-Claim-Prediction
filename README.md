@@ -1,4 +1,4 @@
-# Tableau_Project-1
+# Car-Insurance-Claim-Prediction
 This project aimed to develop a predictive model for accurately forecasting the likelihood of an insurance claim being filed based on customer profile information. 
 The process involved comprehensive data analysis to identify the most influential features affecting the probability of a claim.
 Machine learning algorithms were employed to build the predictive model, and its accuracy was rigorously evaluated.
